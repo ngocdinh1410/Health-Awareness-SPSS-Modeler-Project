@@ -1,7 +1,9 @@
 # Health-Awareness-SPSS-Modeler-Project
 ## Analyzing cdc data regarding behavioral risk 
 [CDC Dataset Used](https://www.cdc.gov/brfss/annual_data/annual_2018.html)
+
 [pollution.csv](https://github.com/ngocdinh1410/Health-Awareness-SPSS-Modeler-Project/blob/master/pollution_processed.csv)
+
 [Final Report](https://github.com/ngocdinh1410/Health-Awareness-SPSS-Modeler-Project/blob/master/TEAM%20A%20Final%20Report%20%20.docx)
 
 ## A. ABSTRACT
