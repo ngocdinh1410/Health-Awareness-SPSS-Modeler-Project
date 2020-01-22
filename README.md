@@ -1,5 +1,8 @@
 # Health-Awareness-SPSS-Modeler-Project
 ## Analyzing cdc data regarding behavioral risk 
+[CDC Dataset Used](https://www.cdc.gov/brfss/annual_data/annual_2018.html)
+[pollution.csv](https://github.com/ngocdinh1410/Health-Awareness-SPSS-Modeler-Project/blob/master/pollution_processed.csv)
+[Final Report](https://github.com/ngocdinh1410/Health-Awareness-SPSS-Modeler-Project/blob/master/TEAM%20A%20Final%20Report%20%20.docx)
 
 ## A. ABSTRACT
 Health consciousness is a significantly psychological element as it plays a vital role in affecting different human attitudes, behavior, and conception pertaining to health issue. Based on the influence of behavioral risk factors and lifestyle on human’s health consciousness, this study aims to help people improve their health awareness by building a model to predict the accuracy of human perceived knowledge about health and which factors affect people’s health consciousness, specifically the factors make people consider themselves healthy. By analyzing the different factors listed above, we hope to determine whether a person is knowledgeable in these areas, or if their opinions of these health issues may need further education. This report starts with introduction of health consciousness matter, following by discussion about the dataset, methodology, problem statement, result analysis and conclusion. 
